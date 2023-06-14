@@ -1,0 +1,36 @@
+backround scrolling image
+
+player charector add
+
+movements to player
+
+obstaclesimages and 
+spawning wholes(moves away
+ bumps(slow speed )
+cones
+lives (3)
+
+rewards 
+gas canisters(add fuel) 
+boost(increase speed of the car
+
+score system
+boosts (how many collected and display on the board
+display top speed
+lives
+
+end 
+all lives are lost.
+run out of fuel
+
+sound files 
+hit boost(positive
+die (negative 
+obstacle(negative
+
+images
+lives 
+cones
+game over
+restart button
+
